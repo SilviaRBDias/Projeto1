@@ -1,2 +1,4 @@
 Digite seu email
 Digite seu nome
+Digite sua senha
+Digite sua idade
